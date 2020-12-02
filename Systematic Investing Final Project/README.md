@@ -1,5 +1,4 @@
-# Systematic Investing Final Project
-Final Project for NYU Robo Advisors and Systematic Investing course. 
+# Computer-Driven Investing Report
 
 In this project we aim to predict and trade off of Sector ETFs using fundamental analysis in a variety of strategies
 and feature engineering techniques with promising results.
