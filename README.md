@@ -1,4 +1,4 @@
-# Quantitative_Finance
+# Quantitative Finance
 
 Quantitative finance and systematic investing projects
 
