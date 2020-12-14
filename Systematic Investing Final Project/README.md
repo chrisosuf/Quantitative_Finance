@@ -1,4 +1,4 @@
-# Computer-Driven Investing Report
+# Computer-Driven Investing for Sector ETFs
 
 In this project we aim to predict and trade Sector ETFs using fundamental analysis and a variety of strategies/feature engineering techniques with promising results.
 
