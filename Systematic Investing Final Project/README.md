@@ -9,7 +9,3 @@ This was done on past data to avoid overfitting, using the optimized thresholds 
 
 * Chris Osufsen 
 * Gabriel Mennesson
-
-### Acknowledgments
-
-* NYU Stern School of Business
